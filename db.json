@@ -9,7 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile":[ {
-    "profileId":1,
+    "id":1,
     "name": "default",
     "isActive":true
   }]
